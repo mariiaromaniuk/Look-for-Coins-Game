@@ -1,8 +1,5 @@
 /*
- Mariia Romaniuk, ID 23846860
- Fall 2019, CSC 211
- Thursday, November 14, 2019 (5:00 pm)
- Instructor: Dr. Azhar
+ Mariia Romaniuk
  
  main.cpp
  look-for
